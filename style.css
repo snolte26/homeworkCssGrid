@@ -3,7 +3,7 @@
 }
 
 .wrapper{
-	width: 2500px;
+	width: 1920px;
 	display: grid;
 	grid-template-columns: 18% 15% 18% 11% 6% 15% 17%;
 	grid-template-rows: 170px 480px 265px 333px 333px 733px 380px;
